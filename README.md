@@ -1,4 +1,4 @@
 # ANFIS-Meta-Heuristics-Training
 ## PM2.5 PREDICTION COMBINED ANFIS WITH META-HEURISTIC OPTIMIZATION ALGORITHMS: A CASE STUDY IN WUHAN
 
-Please download 7z package for all the src code.
+Please download 7z package for the src code.
